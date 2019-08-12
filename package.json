@@ -1,0 +1,18 @@
+{
+  "name": "for-the-record-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "test": "echo \"TODO: Install tests\" && exit 1"
+  },
+  "author": "James Gibson",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^12.7.1",
+    "prompts": "^2.2.1",
+    "ts-node": "^8.3.0",
+    "typescript": "^3.5.3"
+  }
+}
